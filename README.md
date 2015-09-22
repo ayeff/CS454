@@ -10,7 +10,7 @@ California State University, Los Angeles
 **Lectures** <br/>
 Sunday <br/>
 Time: 9:10am - 1:00pm <br/>
-Location: ASCB 132
+Location: Annenberg Science Complex - Room 132 (ASCB 132)
 
 
 **Instructor:** <br/>
@@ -38,6 +38,9 @@ C -- 60 - 80 <br/>
 D -- 40 - 60 <br/>
 F -- below 40 <br/>
 *CSULA grades on a plus/minus scale*
+
+**Homework Submission** <br />
+Please submit all assignments via CSNS - http://csns.calstatela.edu/
 
 **Late Policy** <br/>
 Homework and Project assignments may be submitted up to 24 hours late with a 15 point late penalty deduction.  After the 24 hour period, no additional submissions will be accepted and a grade of 0 will be given for the assignment.
