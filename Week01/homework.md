@@ -12,9 +12,9 @@
     replaceLetters("muhaaa"); // muh***
 
 
-##### 3. Write a function that finds the letter which is repeated the most
+##### 3. Write a function that finds the letter which occurs the most
 
-    repeatingLetters(['z', 'y', 'x', 'x', 'w', 'z', 'y', 'u', 'y', 'y']); // value: y, duplicates: 4  
+    repeatingLetters(['z', 'y', 'x', 'x', 'w', 'z', 'y', 'u', 'y', 'y']); // value: y, occurances: 4  
 
 
 ##### 4.  Write a function that shuffles an array.  The results should be random. HINT: Use Math Object - Math.floor(), Math.Random()
