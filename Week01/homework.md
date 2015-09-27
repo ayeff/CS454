@@ -14,7 +14,10 @@
 
 ##### 3. Write a function that finds the letter which occurs the most
 
-    repeatingLetters(['z', 'y', 'x', 'x', 'w', 'z', 'y', 'u', 'y', 'y']); // value: y, occurances: 4  
+    repeatingLetters(['z', 'y', 'x', 'x', 'w', 'z', 'y', 'u', 'y', 'y']); 
+    // value: y, occurances: 4  
+    // OR
+    // { z: 2, y: 4, x: 2, w: 1, u: 1 }
 
 
 ##### 4.  Write a function that shuffles an array.  The results should be random. HINT: Use Math Object - Math.floor(), Math.Random()
