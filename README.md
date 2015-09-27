@@ -113,7 +113,7 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 - NO CLASS <br/>
 --- Thanksgiving Holiday Break
 
-**Week 11 - 12/03**
+**Week 11 - 12/06**
 
 - Final Exam Presentations
 
@@ -138,10 +138,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 
 Node.js <br/>
 http://nodejs.org/
-
-Javascript & Node Fundamentals <br/>
-https://leanpub.com/jsfun/read
-
 
 **Angular.js**
 
