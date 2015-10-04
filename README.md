@@ -72,7 +72,7 @@ All parties involved will receive a grade of F for the assignment.  Additionally
  --- Scope, Context, Closure, Object Prototype, Callbacks, Event Loop and Garbage Collections
 
 **Week 3 - 10/11**
-
+ - Introduction to APIs <br />
  - Node Fundamentals (Starting with Command Line App) <br/>
 --- Writing Interactive CMD Apps, Running Node, Node Modules
 
@@ -95,7 +95,7 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 **Week 7 - 11/08**
 
 - Node and Angular Application -  Part 1 <br/>
---- Introduction to APIs <br />
+--- Deep Dive into APIs <br />
 --- Application Structure, Routes, Requests and Responses
 
 **Week 8 - 11/15**
