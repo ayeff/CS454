@@ -1,0 +1,14 @@
+{
+  "name": "file-read-cli",
+  "version": "1.0.0",
+  "description": "demo command line app",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cydney Mikel <cydneymikel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^3.27.0"
+  }
+}
