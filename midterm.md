@@ -31,25 +31,25 @@ Each team will present for 3-4 minutes. The presentation should cover:
  
 - fs-extra
 
-- mongodb
+- mongodb <br/>
 (Ravinder, Joshua, Suhani)
 
-- dynamo
+- dynamo <br/>
 (Susan, Jeanne, Zi, Daniel)
 
-- validator
-(Nischal, Neha, Dhanashri, Pranali)
+- validator <br/>
+(Nischal, Neha, Dhanashri, Pranali) <br/>
 (Anand, Weicheng, Sridhar, Wael)
 
-- mongoose
-(Debasish, Vastal, Mahdiye, Tony)
+- mongoose <br/>
+(Debasish, Vastal, Mahdiye, Tony) <br/>
 (Nikunjkumar, Viraj, Krunalkumar)
 
-- mysql
-(Hugo, Rogelio, Mero)
+- mysql <br/>
+(Hugo, Rogelio, Mero) <br/>
 (Pooja, Zubin, Rakesh, Harshal)
 
-- couchbase
+- couchbase <br/>
 (Tim, Erick, Adrian)
  
 - traverse
@@ -58,13 +58,13 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - koa
 
-- request
+- request <br/>
 (William, Raul, Avenir, Fernando)
 
-- socket.io
+- socket.io <br/>
 (Adam, Rick, Kevin, Christopher)
 
-- csv
+- csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal)
 
 - node-box-sdk
