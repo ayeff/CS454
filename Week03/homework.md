@@ -5,26 +5,27 @@ http://numbersapi.com/
 
 #####Guidelines
 
-[0] Implment a help option.
+ 1. Implement a help option. <br/>
+`node clis.js --help`
 
-[1] Implment the command that allows you to get a Math Fact
-    node cli.js --math 1729
+ 2. Implement the command that allows you to get a Math Fact. <br/>
+`node cli.js --math 1729`
 
-[2] Implment the command that allows you to get a Trvia Fact.
-    node cli.js --trivia 35000
+ 3. Implement the command that allows you to get a Trvia Fact <br/>
+`node cli.js --trivia 35000`
 
-[3] Implment the command that allows you to get a Date Fact or Year Fact depending on how the argument passed (01/30 versus 2010)
-    node cli.js --date 01/30 // returns date fact
-    node cli.js --date 2012  // returns year fact
+ 4. Implement tthe command that allows you to get a Date Fact or Year Fact depending on how the argument passed (01/30 versus 2010) <br/>
+`node cli.js --date 01/30 // returns date fact` <br/>
+`node cli.js --date 2012  // returns year fact`
 
-[4] The app should allow a user to save the facts as a .json file by passing a save flag. The save flag should be compatible with the above commands.
+ 5. The app should allow a user to save the facts as a .json file by passing a save flag. The save flag should be compatible with the above commands.
+
+- The saved entry should appended the date it was saved to the fact object.
+- The saved file should be valid JSON.
+
+*IF the file is not created yet then the save flag will create the file and save the fact.
     
-    a. The saved entry should appended the date it was saved to the fact object.
-    b. The saved file should be valid JSON.
-
-    *IF the file is not created yet then the save flag will create the file and save the fact.
-    
-    *IF the file already exists it will add the fact to JSON inside the file. All other facts inside the file will still be present.
+*IF the file already exists it will add the fact to JSON inside the file. All other facts inside the file will still be present.
     
     node cli.js --trivia 35000 --save
 
