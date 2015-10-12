@@ -59,10 +59,12 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - koa
 
 - request <br/>
-(William, Raul, Avenir, Fernando)
+(William, Raul, Avenir, Fernando) <br/>
+(Shivani, Tejendra, Niraj)
 
 - socket.io <br/>
-(Adam, Rick, Kevin, Christopher)
+(Adam, Rick, Kevin, Christopher) <br/>
+(Ankit, Kush, Vishakha, Isha)
 
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal)
