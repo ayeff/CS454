@@ -1,7 +1,6 @@
 ###Week 3 Homework - Due 10/19/15 at 11:59pm
 
-Create a Node.js Command Line App that interacts with the Numbers API to make requests and receive responses in **JSON**.  <br/>
-Your app should have a cli.js, app.js and a package.json and optionally a node_modules folder.<br/>
+Create a Node.js Command Line App that interacts with the Numbers API to make requests and receive responses in **JSON**.  Your app should have a cli.js, app.js and a package.json and optionally a node_modules folder.<br/>
 
 http://numbersapi.com/
 
