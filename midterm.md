@@ -54,13 +54,14 @@ Each team will present for 3-4 minutes. The presentation should cover:
  
 - traverse
  
-- hapi
+- hapi <br/>
+(Anisha, Nikhil, Neil, Suren)
 
 - koa
 
 - request <br/>
 (William, Raul, Avenir, Fernando) <br/>
-(Shivani, Tejendra, Niraj)
+(Rushika, Shivani, Tejendra, Niraj)
 
 - socket.io <br/>
 (Adam, Rick, Kevin, Christopher) <br/>
@@ -74,6 +75,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - winston
 
 - commander
+- (Di, Jonathan, Seung Hyuk, Sherry)
 
 
 #### Disallowed
