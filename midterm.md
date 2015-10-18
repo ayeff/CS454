@@ -68,14 +68,18 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Ankit, Kush, Vishakha, Isha)
 
 - csv <br/>
-(Jaynav, Parth, Dharmesh, Kunal)
+(Jaynav, Parth, Dharmesh, Kunal) <br/>
+(Shashank, Dhrumil, Parthvi)
 
 - node-box-sdk
 
 - winston
 
-- commander
-- (Di, Jonathan, Seung Hyuk, Sherry)
+- commander <br/>
+(Di, Jonathan, Seung Hyuk, Sherry)
+
+- backbone <br/>
+(Ceasar, Ray, Mariah, Danny)
 
 
 #### Disallowed
