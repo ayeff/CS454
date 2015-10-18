@@ -1,0 +1,18 @@
+<!doctype html>
+<html ng-app="myApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+  </head>
+  <body>
+  
+  Enter a URL: <input type="text" ng-model="theirUrl" /> <br />
+  Enter Link Text: <input type="text" ng-model="theirText" /> <br />
+
+  <div my-directive
+  	   some-url="theirUrl"
+  	   some-link-text="theirText"
+  ></div>
+
+  <script src="myDirective-external-values.js"></script>
+  </body>
+</html>
