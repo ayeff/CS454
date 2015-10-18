@@ -26,8 +26,8 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - lodash/underscore<br/>
  
 - q<br/>
-(Dustin , Michael, Christian, Kevin)
-(Jaymin, Vikalp, Julian)<br/>
+(Dustin , Michael, Christian, Kevin)<br/>
+(Jaymin, Vikalp, Julian)
 
 - moment
  
@@ -35,27 +35,27 @@ Each team will present for 3-4 minutes. The presentation should cover:
 (Ankit, Isha , Vishaka , Kush)</br>
 
 -backbone.js<br/>
-(Shwetlana , Savin , Sagar , Rupal)
-(Ceasar, Ray, Mariah, Danny)<br/>
+(Shwetlana , Savin , Sagar , Rupal)<br/>
+(Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
-(Ravinder, Joshua, Suhani, hiremath)
-(Shashank, Dhrumil, Parthvi, Naveen)</br>
+(Ravinder, Joshua, Suhani, hiremath)<br/>
+(Shashank, Dhrumil, Parthvi, Naveen)
 
 - dynamo <br/>
 
 
 - validator <br/>
-(Nischal, Neha, Dhanashri, Pranali) 
-(Anand, Weicheng, Sridhar, Wael)<br/>
+(Nischal, Neha, Dhanashri, Pranali)<br/> 
+(Anand, Weicheng, Sridhar, Wael)
 
 - mongoose <br/>
-(Debasish, Vastal, Mahdiye, Tony) 
-(Nikunjkumar, Viraj, Krunalkumar)<br/>
+(Debasish, Vastal, Mahdiye, Tony)<br/> 
+(Nikunjkumar, Viraj, Krunalkumar, Palak)
 
 - mysql <br/>
-(Hugo, Rogelio, Mero) 
-(Pooja, Zubin, Rakesh, Harshal)<br/>
+(Hugo, Rogelio, Mero) <br/>
+(Pooja, Zubin, Rakesh, Harshal)
 
 - couchbase <br/>
 (Tim, Erick, Adrian)
@@ -63,18 +63,18 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - traverse
  
 - hapi <br/>
-(Anisha, Nikhil, Neil, Suren)
-(Soumik,Shrey,Dhruv)<br/>
+(Anisha, Nikhil, Neil, Suren)<br/>
+(Soumik, Shrey, Dhruv, Mohankumar)
 
 - koa
 
 - request <br/>
-(William, Raul, Avenir, Fernando) 
-(Rushika, Shivani, Tejendra, Niraj)<br/>
+(William, Raul, Avenir, Fernando) <br/>
+(Rushika, Shivani, Tejendra, Niraj) 
 
 - socket.io <br/>
-(Adam, Rick, Kevin, Christopher) 
-(Jugal , dashang, bhaumik , ravi)<br/>
+(Adam, Rick, Kevin, Christopher) <br/>
+(Jugal , dashang, bhaumik , ravi) 
 
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal) <br/>
@@ -85,7 +85,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - winston
 
 - commander <br/>
-(Di, Jonathan, Seung Hyuk, Sherry)<br/>
+(Di, Jonathan, Seung Hyuk, Sherry) <br/>
 
 - rethinkdb<br/>
 (Susan, Jeanne, Zi, Daniel)<br/>
