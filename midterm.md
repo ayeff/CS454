@@ -25,17 +25,25 @@ Each team will present for 3-4 minutes. The presentation should cover:
 ####Suggestions
 - lodash/underscore
  
-- q
+- q<br/>
+- (Dustin , Michael, Christian, Kevin)
+- (Jaymin, Vikalp, Julian)
 
 - moment
  
 - fs-extra
+(Ankit, Isha , Vishaka , Kush)</br>
+
+-backbone.js<br/>
+(Shwetlana , Savin , Sagar , Rupal)<br/>
+(Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
-(Ravinder, Joshua, Suhani)
+(Ravinder, Joshua, Suhani, hiremath)
+(shashank, dhrumil,parthvi)</br>
 
 - dynamo <br/>
-(Susan, Jeanne, Zi, Daniel)
+
 
 - validator <br/>
 (Nischal, Neha, Dhanashri, Pranali) <br/>
@@ -56,6 +64,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
  
 - hapi <br/>
 (Anisha, Nikhil, Neil, Suren)
+(Soumik,Shrey,Dhruv)<br/>
 
 - koa
 
@@ -65,11 +74,11 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - socket.io <br/>
 (Adam, Rick, Kevin, Christopher) <br/>
-(Ankit, Kush, Vishakha, Isha)
+(Jugal , dashang, bhaumik , ravi)
 
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal) <br/>
-(Shashank, Dhrumil, Parthvi)
+
 
 - node-box-sdk
 
@@ -78,10 +87,8 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - commander <br/>
 (Di, Jonathan, Seung Hyuk, Sherry)
 
-- backbone <br/>
-(Ceasar, Ray, Mariah, Danny)
-
-
+- rethinkdb<br/>
+- (Susan, Jeanne, Zi, Daniel)
 #### Disallowed
 - express
 - superagent
