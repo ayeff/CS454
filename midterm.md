@@ -22,14 +22,13 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 **Teams should keep in mind as they research their module, that the Final Presentation will need to include unique code examples from each team member.**
 
-####Suggestions
-- lodash/underscore<br/>
- 
+###Group Information
+
 - q <br/>
 (Dustin , Michael, Christian, Kevin)<br/>
 (Jaymin, Vikalp, Julian)
  
-- fs-extra
+- fs-extra <br/>
 (Ankit, Isha , Vishaka , Kush)</br>
 
 - backbone.js<br/>
@@ -75,6 +74,10 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - rethinkdb<br/>
 (Susan, Jeanne, Zi, Daniel)<br/>
+
+####Suggestions
+
+- lodash/underscore<br/>
 
 - koa <br/>
 
