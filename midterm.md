@@ -25,25 +25,20 @@ Each team will present for 3-4 minutes. The presentation should cover:
 ####Suggestions
 - lodash/underscore<br/>
  
-- q<br/>
+- q <br/>
 (Dustin , Michael, Christian, Kevin)<br/>
 (Jaymin, Vikalp, Julian)
-
-- moment
  
 - fs-extra
 (Ankit, Isha , Vishaka , Kush)</br>
 
--backbone.js<br/>
+- backbone.js<br/>
 (Shwetlana , Savin , Sagar , Rupal)<br/>
 (Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
 (Ravinder, Joshua, Suhani, hiremath)<br/>
 (Shashank, Dhrumil, Parthvi, Naveen)
-
-- dynamo <br/>
-
 
 - validator <br/>
 (Nischal, Neha, Dhanashri, Pranali)<br/> 
@@ -59,14 +54,10 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - couchbase <br/>
 (Tim, Erick, Adrian)
- 
-- traverse
- 
+
 - hapi <br/>
 (Anisha, Nikhil, Neil, Suren)<br/>
 (Soumik, Shrey, Dhruv, Mohankumar)
-
-- koa
 
 - request <br/>
 (William, Raul, Avenir, Fernando) <br/>
@@ -79,17 +70,23 @@ Each team will present for 3-4 minutes. The presentation should cover:
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal) <br/>
 
-
-- node-box-sdk
-
-- winston
-
 - commander <br/>
 (Di, Jonathan, Seung Hyuk, Sherry) <br/>
 
 - rethinkdb<br/>
 (Susan, Jeanne, Zi, Daniel)<br/>
 
+- koa <br/>
+
+- traverse <br/>
+
+- dynamo <br/>
+
+- moment <br/>
+
+- node-box-sdk <br/>
+
+- winston <br/>
 
 #### Disallowed
 - express
