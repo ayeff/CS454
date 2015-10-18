@@ -40,7 +40,7 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - mongodb <br/>
 (Ravinder, Joshua, Suhani, hiremath)
-(shashank, dhrumil,parthvi)</br>
+(Shashank, Dhrumil, Parthvi, Naveen)</br>
 
 - dynamo <br/>
 
