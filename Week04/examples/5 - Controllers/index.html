@@ -1,0 +1,36 @@
+<!doctype html>
+<html ng-app="todoApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>    
+    <script src="todo.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="todo.css">
+  </head>
+  <body>
+  <div class="container">
+    <div class="col-md-offset-3 col-md-6 well">
+      
+      <div class="page-header">
+        <h1>Todo <small>With Filters</small></h1>
+      </div>
+
+      <div ng-controller="TodoCtrl">        
+        <div>Filter Tasks: <input type="text" ng-model="searchText" /><hr /></div>
+        <span>{{remaining()}} of {{todos.length}} remaining</span>
+        [ <a href="" ng-click="archive()">archive</a> ]
+        <ul class="list-unstyled">
+          <li ng-repeat="todo in todos | filter:searchText">
+            <input type="checkbox" ng-model="todo.done">
+            <span class="done-{{todo.done}}">{{todo.text}}</span>
+          </li>
+        </ul>
+        <form ng-submit="addTodo()">
+          <input type="text" ng-model="todoText"  size="30" placeholder="add new todo here">
+          <input class="btn-primary" type="submit" value="add">
+        </form>
+      </div>
+    </div>
+  </div>
+  </body>
+</html>

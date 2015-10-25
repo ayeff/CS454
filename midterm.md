@@ -22,28 +22,30 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 **Teams should keep in mind as they research their module, that the Final Presentation will need to include unique code examples from each team member.**
 
-####Suggestions
-- lodash/underscore
- 
-- q
+###Group Information
 
-- moment
+- q <br/>
+(Dustin , Michael, Christian, Kevin)<br/>
+(Jaymin, Vikalp, Julian)
  
-- fs-extra
+- fs-extra <br/>
+(Ankit, Isha , Vishaka , Kush)</br>
+
+- backbone.js<br/>
+(Shwetlana , Savin , Sagar , Rupal)<br/>
+(Ceasar, Ray, Mariah, Danny)
 
 - mongodb <br/>
-(Ravinder, Joshua, Suhani)
-
-- dynamo <br/>
-(Susan, Jeanne, Zi, Daniel)
+(Ravinder, Joshua, Suhani, hiremath)<br/>
+(Shashank, Dhrumil, Parthvi, Naveen)
 
 - validator <br/>
-(Nischal, Neha, Dhanashri, Pranali) <br/>
+(Nischal, Neha, Dhanashri, Pranali)<br/> 
 (Anand, Weicheng, Sridhar, Wael)
 
 - mongoose <br/>
-(Debasish, Vastal, Mahdiye, Tony) <br/>
-(Nikunjkumar, Viraj, Krunalkumar)
+(Debasish, Vastal, Mahdiye, Tony)<br/> 
+(Nikunjkumar, Viraj, Krunalkumar, Palak)
 
 - mysql <br/>
 (Hugo, Rogelio, Mero) <br/>
@@ -51,36 +53,43 @@ Each team will present for 3-4 minutes. The presentation should cover:
 
 - couchbase <br/>
 (Tim, Erick, Adrian)
- 
-- traverse
- 
-- hapi <br/>
-(Anisha, Nikhil, Neil, Suren)
 
-- koa
+- hapi <br/>
+(Anisha, Nikhil, Neil, Suren)<br/>
+(Soumik, Shrey, Dhruv, Mohankumar)
 
 - request <br/>
 (William, Raul, Avenir, Fernando) <br/>
-(Rushika, Shivani, Tejendra, Niraj)
+(Rushika, Shivani, Tejendra, Niraj) 
 
 - socket.io <br/>
 (Adam, Rick, Kevin, Christopher) <br/>
-(Ankit, Kush, Vishakha, Isha)
+(Jugal , dashang, bhaumik , ravi) 
 
 - csv <br/>
 (Jaynav, Parth, Dharmesh, Kunal) <br/>
-(Shashank, Dhrumil, Parthvi)
-
-- node-box-sdk
-
-- winston
 
 - commander <br/>
-(Di, Jonathan, Seung Hyuk, Sherry)
+(Di, Jonathan, Seung Hyuk, Sherry) <br/>
 
-- backbone <br/>
-(Ceasar, Ray, Mariah, Danny)
+- rethinkdb<br/>
+(Susan, Jeanne, Zi, Daniel)<br/>
 
+####Suggestions
+
+- lodash/underscore<br/>
+
+- koa <br/>
+
+- traverse <br/>
+
+- dynamo <br/>
+
+- moment <br/>
+
+- node-box-sdk <br/>
+
+- winston <br/>
 
 #### Disallowed
 - express
